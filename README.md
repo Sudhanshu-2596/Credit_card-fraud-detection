@@ -12,6 +12,11 @@ This **Credit Card Fraud Detection** project utilizes machine learning technique
 
 ---
 
+## ✨ Features
+[Download Dataset from Dropbox](https://www.dropbox.com/scl/fi/r62f15fxq83frcrt6z8oo/creditcard.csv?rlkey=08j8gbm98xy4wndtq4exar8mf&st=xbjxp7xw&dl=0)
+
+---
+
 ## 📸 Screenshots
 
 ### 📊 Data Exploration
